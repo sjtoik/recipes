@@ -10,7 +10,47 @@ Thanks mom!
 
 ## Table of plans
 
-1. Horse seamen
-1. Pan pizza
+1. Men of Horse sea
+1. [Pan pizza](#iron-skillet-pan-pizza)
 1. Seitan is good
+
+## Baseline pizza dough
+The baseline.
+![The dough](./dough.jpeg)
+```
+150g 42C water
+11g dried yeast
+5g sugar
+5g salt
+200g fine white wheat flour
+A drop of oil
+```
+1. Warm up water and measure it onto the mixing bowl
+1. Mix up yest, sugar and salt into the water
+1. Measure 200g flour
+1. Beat up at least for 5 minutes
+1. Tuck the dough in, lube the surface with a drop of oil
+1. Let rest for 1,5 hours, fold twice
+1. Let rest for 1,5 hours
+
+
+
+## Iron skillet pan pizza
+How about milk?
+
+```
+300g milk
+11g dried yeast
+50g melted butter or oil
+1/2 spoon sugar
+1 tea spoon salt
+600g fine white wheat flour
+```
+1. Heat up the milk to 42C
+1. Premix the milk, yeast, sugar and salt in flour volcano
+1. Leave the dough a bit moist because it will not be rolled after the rise
+1. Cover with oil and let it rise under a towel for 45 minutes
+1. Pre-heat the oven and the skillet to 250C
+1. Transfer the dough to the skillet, top up and bake for 15 minutes
+
 
