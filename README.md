@@ -33,7 +33,10 @@ A drop of oil
 1. Let rest for 1,5 hours, fold twice
 1. Let rest for 1,5 hours
 
+### Tricks
+For extra fluffiness, throw in a bowl of water into the oven while heating. There should be enough of water to create water vapour for the first 10 minutes of the bake time. This helps the dough to keep the moisture inside while baking.
 
+If your appartment is cold, sink the oversized mixing bowl into the water bath, and keep the temperature stable around 40C with sous vide. Metal bowls conduct better. Using oven is also plausible. Just don't leave it on after short pre-heat.
 
 ## Iron skillet pan pizza
 How about milk?
