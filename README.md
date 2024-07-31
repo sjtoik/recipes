@@ -33,6 +33,10 @@ A drop of oil
 1. Let rest for 1,5 hours, fold twice
 1. Let rest for 1,5 hours
 
+### Iteration notes
+1. Better without oil
+1. Little ammount and dry toppings let the dough rise better in the oven
+
 ### Tricks
 For extra fluffiness, throw in a bowl of water into the oven while heating. There should be enough of water to create water vapour for the first 10 minutes of the bake time. This helps the dough to keep the moisture inside while baking.
 
